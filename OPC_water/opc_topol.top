@@ -1,0 +1,13 @@
+; Include forcefield parameters (the forcefield should not matter to the water, but here we choose OPLS-AA)
+#include "oplsaa.ff/forcefield.itp"
+
+#include "opc_atomtypes.itp"
+#include "opc.itp"
+
+[ system ]
+; Name
+OPC water box
+
+[ molecules ]
+; Compound        #mols
+SOL               1024
