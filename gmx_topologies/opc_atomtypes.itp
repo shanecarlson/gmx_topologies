@@ -1,0 +1,16 @@
+[ atomtypes ]
+;name   at.num    mass      charge   ptype    sigma        epsilon
+OW_OPC   8      15.9994       0.000       A   3.16655e-01  8.90360e-01
+HW_OPC   1       1.008        0.6791      A   0.00000e+00  0.00000e+00
+MW_OPC   1       0.000       -1.3582      V   0.00000e+00  0.00000e+00
+
+; OPC 4-point water model
+;
+; see publication:
+; Building Water Models: A Different Approach
+; by Saeed Izadi†, Ramu Anandakrishnan, and Alexey V. Onufriev
+; J. Phys. Chem. Lett. 2014, 5, 21, 3863–3871
+; https://pubs.acs.org/doi/10.1021/jz501780a
+;
+; this .itp file created by Shane R. Carlson at FU-Berlin
+; use in conjuction with opc.itp
