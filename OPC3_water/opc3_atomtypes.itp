@@ -1,0 +1,15 @@
+[ atomtypes ]
+;name   at.num    mass      charge   ptype    sigma        epsilon
+OW_OPC3   8      15.9994      -0.895170      A   3.17427e-01  6.8369e-01
+HW_OPC3   1       1.008        0.447585      A   0.00000e+00  0.00000e+00
+
+; OPC3 3-point water model
+;
+; see publication:
+; Accuracy limit of rigid 3-point water models
+; by Saeed Izadi, and Alexey V. Onufriev
+; J. Chem. Phys. 145, 074501 (2016)
+; https://doi.org/10.1063/1.4960175
+;
+; this .itp file created by Shane R. Carlson at FU-Berlin
+; use in conjuction with opc3.itp
