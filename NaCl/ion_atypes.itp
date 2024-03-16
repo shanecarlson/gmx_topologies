@@ -1,0 +1,19 @@
+[ atomtypes ]
+;name  bond_type at.num    mass      charge   ptype    sigma        epsilon
+ K_cation   K+   19     39.09830     1.000        A    2.83000e-01  9.00000e-01
+ Na_cation  Na+  11     22.98977     1.000        A    2.31000e-01  4.50000e-01
+ Cl_anion   Cl-  17     35.45300    -1.000        A    4.30000e-01  4.20000e-01
+ Br_anion   Br-  35     79.90400    -1.000        A    4.43000e-01  7.50000e-01
+
+
+; Optimized ion model
+;
+; use with Lorentz-Berthelot combination rules (GROMACS type 2)!
+; see publication:
+; Transferable Ion Force Fields in Water from a Simultaneous Optimization of Ion Solvation and Ion−Ion Interaction
+; by Philip Loche, Patrick Steinbrunner, Sean Friedowitz, Roland R. Netz, and Douwe Jan Bonthuis
+; J. Phys. Chem. B 2021, 125, 8581
+; https://pubs.acs.org/doi/10.1021/acs.jpcb.1c05303
+;
+; this .itp file created by Shane R. Carlson at FU-Berlin
+
