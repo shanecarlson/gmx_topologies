@@ -1,0 +1,10 @@
+[ moleculetype ]
+; Name   nrexcl
+KC      3
+
+[ atoms ]
+;  nr  type  resnr  resid  atom  cgnr  charge    mass
+    1 K_cation 1    KC      K1    1   1.000  39.09830
+; total charge of the molecule:   1.000
+
+

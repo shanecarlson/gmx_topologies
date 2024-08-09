@@ -1,0 +1,10 @@
+[ moleculetype ]
+; Name   nrexcl
+NAC      3
+
+[ atoms ]
+;  nr  type  resnr  resid  atom  cgnr  charge    mass
+    1 Na_cation 1    NAC      Na1    1   1.000  22.98977
+; total charge of the molecule:   1.000
+
+

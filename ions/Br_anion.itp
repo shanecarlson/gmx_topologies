@@ -1,0 +1,10 @@
+[ moleculetype ]
+; Name   nrexcl
+BRA      3
+
+[ atoms ]
+;  nr  type  resnr  resid  atom  cgnr  charge    mass
+    1 Br_anion 1    BRA      Br1    1   -1.000  79.90400
+; total charge of the molecule:   -1.000
+
+

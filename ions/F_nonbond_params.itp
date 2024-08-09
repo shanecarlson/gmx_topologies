@@ -1,0 +1,6 @@
+
+[ nonbond_params ]
+; explicit pair interactions based on sigma LJ fudge factors
+; i    j  func   sigma      epsilon
+K      F  1      0.48975     0.3000 ; fudge sigma LJ = 1.5
+Cs     F  1      0.49217     0.3924 ; fudge sigma LJ = 1.4
